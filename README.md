@@ -1,2 +1,2 @@
 # coding-challenges
-Sonme little challenges
+Some little challenges
